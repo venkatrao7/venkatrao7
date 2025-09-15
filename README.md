@@ -75,17 +75,20 @@ Developed during a **6-week Full Stack Development Internship (Edunet–EY–AIC
 
 ## 🌟 Leadership & Soft Skills 🎯  
 
-👥 **Project Leadership:**  Led chatbot project team, integrated MongoDB backend, and optimized NLP models.  
-🎤 **Soft Skills Training:** Conducted sessions for juniors on communication & teamwork.  
-📌 **Class Representative:** Coordinated academics, events, and communication between faculty & students.  
+👥 Project Leadership: Led chatbot project team, integrated MongoDB backend, and optimized NLP models.  
+🎤 Soft Skills Training: Conducted sessions for juniors on communication & teamwork.  
+📌 Class Representative: Coordinated academics, events, and communication between faculty & students.  
+
 ---
 
 ## 📫 Let’s Connect 🔗  
 
-📧 **Email:** [venkatraovelagapudi@gmail.com](mailto:venkatraovelagapudi@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/venkat-rao-velagapudi-529248280](https://www.linkedin.com/in/venkat-rao-velagapudi-529248280)  
-💻 **GitHub:** [github.com/venkatrao7](https://github.com/venkatrao7)  
----  
+📧 Email: [venkatraovelagapudi@gmail.com](mailto:venkatraovelagapudi@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/venkat-rao-velagapudi-529248280](https://www.linkedin.com/in/venkat-rao-velagapudi-529248280)  
+💻 GitHub: [github.com/venkatrao7](https://github.com/venkatrao7)  
+
+---
+
 
 ✨ *“Driven by problem-solving and optimization, I thrive in collaborative environments that push the boundaries of technology.”*  
 
