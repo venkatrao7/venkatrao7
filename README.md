@@ -1,87 +1,94 @@
-Hi, I'm Venkat Rao Velagapudi
+👋 Hi, I'm VENKAT RAO VELAGAPUDI
 
 🎓 B.Tech in Computer Science Engineering (AI & ML)
 💻 Aspiring DevOps & Full Stack Engineer
 🚀 Passionate about AI, Machine Learning, Automation, and Scalable Architectures
 
-I’m a Computer Science Engineering graduate specialized in Artificial Intelligence & Machine Learning, with a strong interest in DevOps, Cloud, and Full-Stack Development. I enjoy building intelligent systems, designing scalable architectures, and solving real-world problems through AI-driven automation.
+🛠 Tech Stack
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Languages
 
-🛠️ Tech Stack ⚡
+C
 
-💡 Languages:
-C | Python | Java | JavaScript | HTML | CSS
+Python
 
-⚙️ Frameworks & Libraries:
-React.js | Node.js | Express.js | MERN Stack | Machine Learning | Deep Learning | NLP
+Java
 
-🗄️ Databases:
-MongoDB | MySQL
+JavaScript
 
-🛠 Developer Tools:
-VS Code | Anaconda | Google Colab | Git & GitHub | Docker (Basic)
+HTML, CSS
 
-📚 Academic Interests:
-Artificial Intelligence | DevOps | Cloud Computing | Data Structures | DBMS | NLP | Reinforcement Learning | Operating Systems
+Frameworks & Libraries
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+React.js, Node.js, Express.js, MERN Stack
 
-📌 Featured Projects 🚀
+NLP, Machine Learning, Deep Learning
 
-🔹 Healthcare Chatbot 🩺
-AI-powered chatbot built with NLP, JSON knowledge base, and MongoDB, integrated into a web interface (HTML, CSS, JavaScript). Provides accurate responses and a seamless user experience for healthcare-related queries.
+Databases
 
-🔹 Spotify Replica Website 🎵
-Developed a music streaming web application using the MERN stack. Implemented user authentication, playlist management, and real-time music playback. Added extra features like movie ratings and trailers, enhancing engagement.
+MongoDB
 
-🔹 Desktop Assistant 💻
-An AI-driven assistant built with Python, featuring speech-to-text recognition, task automation, and command execution. Improves productivity through hands-free system interaction.
+MySQL
 
-🔹 E-Commerce Website 🛒
-Developed during a 6-week Full Stack Development Internship (Edunet–EY–AICTE). Built using MongoDB, Express.js, React, Node.js with custom APIs. Implemented industry best practices for secure and scalable development.
+Developer Tools
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VS Code, Anaconda, Google Colab, Git & GitHub, Docker (basic)
 
-🏆 Certifications 🎖️
+Academic Interests
+Artificial Intelligence, DevOps, Cloud Computing, Data Structures, DBMS, NLP, Reinforcement Learning, Operating Systems
 
-✔️ Generative AI – Microsoft
-✔️ Practical Machine Learning – Infosys & Coursera
-✔️ NLP – Great Learning
-✔️ Java Foundations – Oracle Academy
-✔️ ML with Python – IBM
-✔️ AI Job Simulation – Cognizant
-✔️ Developer Job Simulation – Accenture
-✔️ AI Advanced Bootcamp – Swecha
+📌 Projects
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Healthcare Chatbot 🩺
+AI-powered chatbot using NLP, JSON knowledge base, and MongoDB, integrated with HTML, CSS, and JavaScript for a smooth web experience.
 
-🤝 Extra Activities 🌟
+Spotify Replica Website 🎵
+Built a MERN-based music streaming platform with authentication, playlist management, and real-time playback, along with extras like movie ratings and trailers.
 
-🚀 Hackathon Participant (JHub): Built AI-driven and full-stack projects under time constraints.
+Desktop Assistant 💻
+Python-based AI desktop assistant with speech-to-text, task automation, and command execution, boosting user productivity.
 
-🤖 Robotics Club Member: Worked on automation and embedded systems.
+E-Commerce Website 🛒
+Developed during an Edunet–EY–AICTE internship, using MongoDB, Express.js, React, Node.js. Implemented custom APIs and followed industry best practices.
 
-🧠 AI Bootcamp @ IIIT Hyderabad: Hands-on experience with LLMs, open-source projects, and custom OS (Debian).
+🏆 Certifications
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Generative AI – Microsoft
 
-🌟 Leadership & Soft Skills 🎯
+Practical Machine Learning – Infosys & Coursera
 
-👥 Project Leadership: Led chatbot project team, integrated MongoDB backend, and optimized NLP models.
+NLP – Great Learning
 
-🎤 Soft Skills Training: Conducted sessions for juniors on communication & teamwork.
+Java Foundations – Oracle Academy
 
-📌 Class Representative: Coordinated academics, events, and communication between faculty & students.
+ML with Python – IBM
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+AI Job Simulation – Cognizant
 
-📫 Let’s Connect 🔗
+Developer Job Simulation – Accenture
+
+AI Advanced Bootcamp – Swecha
+
+🤝 Extra Activities
+
+Hackathon Participant @ JHub 🚀
+
+Active Robotics Club Member 🤖
+
+AI Bootcamp @ IIIT Hyderabad 🧠
+
+🌟 Leadership & Soft Skills
+
+Project Leadership – Led chatbot team, optimized NLP & backend integration.
+
+Soft Skills Training – Conducted group decision-making & communication sessions for juniors.
+
+Class Representative – Coordinated academics, events, and communication.
+
+📫 Connect With Me
 
 📧 Email: venkatraovelagapudi@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/venkat-rao-velagapudi-529248280
 
 💻 GitHub: github.com/venkatrao7
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
