@@ -75,7 +75,7 @@ Developed during a **6-week Full Stack Development Internship (Edunet–EY–AIC
 
 ## 🌟 Leadership & Soft Skills 🎯  
 
-👥 **Project Leadership:** Led chatbot project team, integrated MongoDB backend, and optimized NLP models.  
+👥 **Project Leadership:**  Led chatbot project team, integrated MongoDB backend, and optimized NLP models.  
 🎤 **Soft Skills Training:** Conducted sessions for juniors on communication & teamwork.  
 📌 **Class Representative:** Coordinated academics, events, and communication between faculty & students.  
 ---
